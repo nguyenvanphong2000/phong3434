@@ -8,7 +8,7 @@ export class StudentComponent{
 
   @Input()
   classN?: string;
-  Name = 'Phùng Vũ';
+  Name = 'Văn Phong';
   Email = 'abc@gmail.com';
   Address = '...';
 
